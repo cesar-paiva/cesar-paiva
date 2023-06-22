@@ -10,4 +10,4 @@ Passionate about crafting high-quality mobile experiences and solving complex pr
 
 📚 Continuously staying up-to-date with the latest iOS trends and advancements, dedicated to lifelong learning and professional growth.
 
-📩 Let's connect! Feel free to reach out for collaboration or opportunities in iOS development. LinkedIn: [[Your LinkedIn Profile URL]](https://www.linkedin.com/in/cesargiupponi/)https://www.linkedin.com/in/cesargiupponi
+📩 Let's connect! Feel free to reach out for collaboration or opportunities in iOS development. LinkedIn: https://www.linkedin.com/in/cesargiupponi
